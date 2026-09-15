@@ -1,21 +1,24 @@
-# 👋 Greetings, I’m Sobhan
-<div align="left">
- <br>
- 👀 &nbsp;I have a keen interest in Gaming, Avionic Systems, Electronics, IoT, and Visual Arts. :D
+# Hi, I'm Sobhan 👋
 
- 🌱 &nbsp;I am currently studying for a Bachelor's degree in Electrical Engineering.
+I'm an Electrical Engineering student who ended up spending most of his time
+writing software - backend, embedded, whatever the project needs. I did an
+R&D internship on an aircraft warning system, which is where the avionics
+interest below comes from, and I've worked a bit with HMI panels and Delta
+HMI+PLC setups. Lately I've been pulled more toward embedded systems, IoT,
+and small circuits/microcontrollers, but I still build full web apps end to
+end when that's what a project calls for.
 
+- 🔭 Currently building **[Art-Supply-Website](https://github.com/sobhan-imani/Art-Supply-Website)**, a Django e-commerce store
+- ⚡ Interested in embedded systems, IoT, avionics, and games
+- 📫 Reach me at **sobhanimani81@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/sobhan-imani)
 
- 📫 &nbsp;You can reach me at: **sobhanimani81@gmail.com** | [LinkedIn](https://www.linkedin.com/in/sobhan-imani)
-</div>
+## Some things I've built
 
- <br>
+- **[Art-Supply-Website](https://github.com/sobhan-imani/Art-Supply-Website)** - a Django/DRF store: cart, checkout with a payment gateway, order tracking, a background job queue, and a small JWT API.
+- **[Tornado](https://github.com/sobhan-imani/Tornado)** *(`development` branch)* - a café ordering and management system built with a teammate: menus, cart, orders, accounting, and an admin dashboard, on Flask and PostgreSQL, with tests and CI.
+- **[sensor-server](https://github.com/sobhan-imani/sensor-server)** - a Flask service that takes in sensor readings over a GPRS/SIM module and serves them on a dashboard.
+- **[Squadro_Player](https://github.com/sobhan-imani/Squadro_Player)** - a Minimax AI player for the board game Squadro, in C++.
 
- ## &nbsp;Technical Skills:
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
-![QT](https://img.shields.io/badge/-QT-05122A?style=flat&logo=qt)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=manjaro)&nbsp;
-![Micro](https://img.shields.io/badge/-Microcontrollers-05122A?style=flat&logo=stmicroelectronics)&nbsp;
-<br>
+## Tools I use
+
+Python · Django · Flask · C++ · Qt · Linux · Microcontrollers/Embedded · HTML/CSS/JS
