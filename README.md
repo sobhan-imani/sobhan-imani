@@ -8,7 +8,6 @@ HMI+PLC setups. Lately I've been pulled more toward embedded systems, IoT,
 and small circuits/microcontrollers, but I still build full web apps end to
 end when that's what a project calls for.
 
-- 🔭 Currently building **[Art-Supply-Website](https://github.com/sobhan-imani/Art-Supply-Website)**, a Django e-commerce store
 - ⚡ Interested in embedded systems, IoT, avionics, and games
 - 📫 Reach me at **sobhanimani81@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/sobhan-imani)
 
