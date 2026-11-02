@@ -14,7 +14,6 @@ apps - when that's what a project needs.
 - **[sensor-server](https://github.com/sobhan-imani/sensor-server)** - a Flask service that takes in sensor readings over a GPRS/SIM module and serves them on a dashboard.
 - **[Squadro_Player](https://github.com/sobhan-imani/Squadro_Player)** - a Minimax AI player for the board game Squadro, in C++.
 - **[Art-Supply-Website](https://github.com/sobhan-imani/Art-Supply-Website)** - a Django/DRF store: cart, checkout with a payment gateway, order tracking, a background job queue, and a small JWT API.
-- **[Tornado](https://github.com/sobhan-imani/Tornado)** *(`development` branch)* - a café ordering and management system built with a teammate: menus, cart, orders, accounting, and an admin dashboard, on Flask and PostgreSQL, with tests and CI.
 
 ## Tools I use
 
